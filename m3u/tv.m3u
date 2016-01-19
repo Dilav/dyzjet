@@ -259,3 +259,136 @@ http://217.16.82.6:1935/zulu//era_2/simpletvmaclinkleri.m3u8
 rtmp://84.20.77.50/live//livestream2
 #EXTINF:-1,Vizion Plus
 rtmp://slive.vizionplus.tv:1935/live/livestream2
+http://best-ul.mine.nu:8000/live/abcom/abcom/2.ts
+#EXTINF:-1,Rtk Kosova
+http://best-ul.mine.nu:8000/live/abcom/abcom/17.ts
+#EXTINF:-1,RTK 3
+http://185.75.56.97:4022/udp/239.255.3.5:12345
+#EXTINF:-1,21 HD
+http://best-ul.mine.nu:8000/live/abcom/abcom/40.ts
+#EXTINF:-1,Alsat M
+http://best-ul.mine.nu:8000/live/abcom/abcom/7.ts
+#EXTINF:-1,1 First
+http://best-ul.mine.nu:8000/live/abcom/abcom/11.ts
+#EXTINF:-1,Era Tv
+http://best-ul.mine.nu:8000/live/abcom/abcom/62.ts
+#EXTINF:-1,RTV Sharri
+http://best-ul.mine.nu:8000/live/abcom/abcom/61.ts
+#EXTINF:-1,Tv Globi Gostivar
+http://best-ul.mine.nu:8000/live/abcom/abcom/59.ts
+#EXTINF:-1,Film Nje HD
+http://best-ul.mine.nu:8000/live/abcom/abcom/32.ts
+#EXTINF:-1,Film Dy HD
+http://best-ul.mine.nu:8000/live/abcom/abcom/31.ts
+#EXTINF:-1,Plus HD
+http://best-ul.mine.nu:8000/live/abcom/abcom/29.ts
+#EXTINF:-1,Jolly HD
+http://best-ul.mine.nu:8000/live/abcom/abcom/43.ts
+#EXTINF:-1,Digi Gold
+http://best-ul.mine.nu:8000/live/abcom/abcom/26.ts
+#EXTINF:-1,Film Akcion
+http://best-ul.mine.nu:8000/live/abcom/abcom/21.ts
+#EXTINF:-1,Film Komedi
+http://best-ul.mine.nu:8000/live/abcom/abcom/24.ts
+#EXTINF:-1,Film Thriler
+http://best-ul.mine.nu:8000/live/abcom/abcom/25.ts
+#EXTINF:-1,Film Autor
+http://best-ul.mine.nu:8000/live/abcom/abcom/39.ts
+#EXTINF:-1,Stinet
+http://best-ul.mine.nu:8000/live/abcom/abcom/253.ts
+#EXTINF:-1,T HD
+http://best-ul.mine.nu:8000/live/abcom/abcom/30.ts
+#EXTINF:-1,Tring Shqip
+http://best-ul.mine.nu:8000/live/abcom/abcom/50.ts
+#EXTINF:-1,Tring Fantasy
+http://best-ul.mine.nu:8000/live/abcom/abcom/45.ts
+#EXTINF:-1,Tring History
+http://best-ul.mine.nu:8000/live/abcom/abcom/46.ts
+#EXTINF:-1,Tring Life
+http://best-ul.mine.nu:8000/live/abcom/abcom/47.ts
+#EXTINF:-1,Living HD
+http://best-ul.mine.nu:8000/live/abcom/abcom/251.ts
+#EXTINF:-1,Cufo Tv
+http://best-ul.mine.nu:8000/live/abcom/abcom/18.ts
+#EXTINF:-1,Junior Tv
+http://best-ul.mine.nu:8000/live/abcom/abcom/20.ts
+#EXTINF:-1,Folkplus
+http://best-ul.mine.nu:8000/live/abcom/abcom/37.ts
+#EXTINF:-1,TV Koha
+http://best-ul.mine.nu:8000/live/abcom/abcom/60.ts
+#EXTINF:-1,Abc News
+http://best-ul.mine.nu:8000/live/abcom/abcom/9.ts
+#EXTINF:-1,Top News
+http://best-ul.mine.nu:8000/live/abcom/abcom/8.ts
+#EXTINF:-1,A1 Report
+http://best-ul.mine.nu:8000/live/abcom/abcom/28.ts
+#EXTINF:0,ALB Tring Vizion Plus
+http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/956.ts
+#EXTINF:0,ALB Tring Shqip
+http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/955.ts
+#EXTINF:0,ALB Digitalb Supersports 2 HD
+http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/128.ts
+#EXTINF:0,ALB Digitalb Supersports 1HD
+http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/314.ts
+#EXTINF:0,ALB Digitalb Supersports 4 HD
+http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/130.ts
+#EXTINF:0,ALB Digitalb Film Thriller
+http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/696.ts
+#EXTINF:0,ALB Digitalb Film DY HD
+http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/697.ts
+#EXTINF:-1,Super sport 1
+http://185.75.56.97:4022/udp/239.2.1.5:1238
+#EXTINF:-1,Super sport 2
+http://185.75.56.97:4022/udp/239.2.1.1:1235
+#EXTINF:-1,Super sport Kosova 2
+http://185.75.56.97:4022/udp/231.1.1.6:1234
+#EXTINF:-1,TIP
+http://185.75.56.97:4022/udp/239.255.42.3:12390
+#EXTINF:-1,PLANET
+http://185.75.56.97:4022/udp/239.255.42.5:12392
+#EXTINF:-1,MAX
+http://185.75.56.97:4022/udp/239.255.42.9:12396
+#EXTINF:-1,EXPLORER
+http://185.75.56.97:4022/udp/239.255.7.31:12345
+#EXTINF:-1, Top Channel
+http://185.75.56.97:4022/udp/231.1.1.5:1234
+#EXTINF:-1, SuperSport Kosova 2
+http://185.75.56.97:4022/udp/231.1.1.6:1234
+#EXTINF:-1, RTV 21 NEWS
+http://185.75.56.97:4022/udp/239.100.100.1:1234
+#EXTINF:-1,21 HD JUNIOR
+http://185.75.56.97:4022/udp/239.255.3.2:12345
+#EXTINF:-1,DASMA TV
+http://185.75.56.97:4022/udp/239.255.3.27:12345
+#EXTINF:-1,21 HD POPULARE
+http://185.75.56.97:4022/udp/239.255.3.37:12345
+#EXTINF:-1,RTK 1
+http://185.75.56.97:4022/udp/239.255.2.3:10000
+#EXTINF:-1,6 HD
+http://185.75.56.97:4022/udp/239.255.2.11:10000
+#EXTINF:-1,Klan KOSOVA
+http://185.75.56.97:4022/udp/239.200.1.2:6093
+#EXTINF:-1, Folk Muzik
+http://185.75.56.97:4022/udp/239.0.20.25:6016
+#EXTINF:-1,TOP CHANNEL HD
+http://185.75.56.97:4022/udp/239.200.33.151:60965
+#EXTINF:-1, First Kanali
+http://185.75.56.97:4022/udp/239.100.6.105:60997
+#EXTINF:-1,ALSAT M
+http://185.75.56.97:4022/udp/239.100.4.109:60994
+#EXTINF:-1,HITS
+http://185.75.56.97:4022/udp/239.200.0.1:1090
+#EXTINF:-1,AUTOR
+http://185.75.56.97:4022/udp/239.200.0.2:1091
+#EXTINF:-1,THRILLER
+http://185.75.56.97:4022/udp/239.200.0.4:1093
+#EXTINF:-1,DRAME
+http://185.75.56.97:4022/udp/239.200.0.5:1094
+#EXTINF:-1,JUNIOR
+http://185.75.56.97:4022/udp/239.200.0.6:1095
+#EXTINF:-1,CUFO
+http://185.75.56.97:4022/udp/239.200.0.7:1096
+#EXTINF:-1, Film Aksion
+http://185.75.56.97:4022/udp/239.210.15.1:60783
+#EXTINF:-1, TV Mitrovica
+http://185.75.56.97:4022/udp/239.255.2.98:1415
