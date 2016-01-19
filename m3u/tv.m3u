@@ -3,10 +3,8 @@
 http://185.75.56.97:4022/udp/239.210.15.1:60783
 #EXTINF:-1, Tv Mitrovica
 http://185.75.56.97:4022/udp/239.2.1.5:1238
-#EXTINF:-1,Test4
+#EXTINF:-1, Tv Mitrovica
 http://185.75.56.97:4022/udp/239.255.2.98:1415
-#EXTINF:-1,Test5
-http://185.75.56.97:4022/udp/239.2.1.6:1237
 #EXTINF:-1,Alsat M
 http://185.75.56.97:4022/udp/239.0.19.22:64433
 #EXTINF:-1,Bang Bang
@@ -43,3 +41,27 @@ http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/397.ts
 http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/1648.ts
 #EXTINF:-1,[AL] Plus HD
 http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/844.ts
+#EXTINF:-1,Top news HD
+http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/1133.ts
+#EXTINF:-1,[AL] Era TV
+http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/411.ts
+#EXTINF:-1,[AL] TV Music
+http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/412.ts
+#EXTINF:-1,[AL] RTV 21 HD Popullore
+http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/402.ts
+#EXTINF:-1,[AL] RTV 21 HD Plus
+http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/403.ts
+#EXTINF:-1,SuperSonic
+http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/1476.ts
+#EXTINF:-1,Apollon TV
+http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/1473.ts
+#EXTINF:-1,[AL] Folk
+http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/410.ts
+#EXTINF:-1,[AL] 3  HD Music
+http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/415.ts
+#EXTINF:-1,[AL] Dasma TV
+http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/823.ts
+#EXTINF:-1,[AL] TVSH
+http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/418.ts
+#EXTINF:-1,[AL] Rrokum TV
+http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/358.ts
