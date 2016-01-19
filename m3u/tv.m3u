@@ -1,17 +1,45 @@
 #EXTM3U
-#EXTINF:-1,CUFO
-http://185.75.56.97:4022/udp/239.200.0.7:1096
-#EXTINF:-1, Test1
-http://185.75.56.97:4022/udp/239.101.102.100:2536
-#EXTINF:-1,Test2
+#EXTINF:-1, Film Aksion
 http://185.75.56.97:4022/udp/239.210.15.1:60783
-#EXTINF:-1,Test3
+#EXTINF:-1, Tv Mitrovica
 http://185.75.56.97:4022/udp/239.2.1.5:1238
 #EXTINF:-1,Test4
 http://185.75.56.97:4022/udp/239.255.2.98:1415
 #EXTINF:-1,Test5
 http://185.75.56.97:4022/udp/239.2.1.6:1237
-#EXTINF:-1,Test7
+#EXTINF:-1,Alsat M
 http://185.75.56.97:4022/udp/239.0.19.22:64433
-#EXTINF:-1,Test8
+#EXTINF:-1,Bang Bang
 http://185.75.56.97:4022/udp/239.0.12.13:60156
+#EXTINF:-1,[AL] Top Channel HD
+http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/383.ts
+#EXTINF:-1,[AL] RTK
+http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/352.ts
+#EXTINF:-1,[AL] Klan HD
+http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/356.ts
+#EXTINF:-1,[AL] Vizion Plus
+http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/419.ts
+#EXTINF:-1,Rtk Test
+http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/711.ts
+#EXTINF:-1,[AL] KTV
+http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/354.ts
+#EXTINF:-1,[AL] KTV Test
+http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/713.ts
+#EXTINF:-1,[AL] RTV 21 HD
+http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/353.ts
+#EXTINF:-1,RTV 21 Tokesor
+http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/712.ts
+#EXTINF:-1,[AL] Klan Kosova
+http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/355.ts
+#EXTINF:-1,[AL] Klan Kosova Tokesor
+http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/714.ts
+#EXTINF:-1,[MK] ALSAT M
+http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/357.ts
+#EXTINF:-1,News 24
+http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/1475.ts
+#EXTINF:-1,[AL] Top News
+http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/397.ts
+#EXTINF:-1,[AL] ABC NEWS
+http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/1648.ts
+#EXTINF:-1,[AL] Plus HD
+http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/844.ts
