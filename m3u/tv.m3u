@@ -65,314 +65,127 @@ http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/823.ts
 http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/418.ts
 #EXTINF:-1,[AL] Rrokum TV
 http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/358.ts
-#EXTINF:0,RTK 1
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/483.m3u8
-#EXTINF:0,KTV
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/504.m3u8
-#EXTINF:0,RTV21
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/481.m3u8
-#EXTINF:0,RTV21 M
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/536.m3u8
-#EXTINF:0,RTV 21 Popullore
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/551.m3u8
-#EXTINF:0,Klan TV
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/516.m3u8
-#EXTINF:0,Klan TV-SD
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/838.m3u8
-#EXTINF:0,Klan Kosova
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/499.m3u8
-#EXTINF:0,Top Channel
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/506.m3u8
-#EXTINF:0,TOP NEWS
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/620.m3u8
-#EXTINF:0,KANALI 7
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/737.m3u8
-#EXTINF:0,Vizion Plus
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/542.m3u8
-#EXTINF:0,TVSH
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/558.m3u8
-#EXTINF:0,RTV ALDI
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/455.m3u8
-#EXTINF:0,TV Presheva
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/684.m3u8
-#EXTINF:0,Alsat M
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/482.m3u8
-#EXTINF:0,MRT1
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/940.m3u8
-#EXTINF:0,MRT2
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/720.m3u8
-#EXTINF:0,TV Besa
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/848.m3u8
-#EXTINF:0,TV2 Gostivari
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/913.m3u8
-#EXTINF:0,TV Globi
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/942.m3u8
-#EXTINF:0,TV CEGRANI MEDIA
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/943.m3u8
-#EXTINF:0,TV CEGRANI BESA BERLIN
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/944.m3u8
-#EXTINF:0,TV Koha
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/815.m3u8
-#EXTINF:0,SKY TETOVA
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/937.m3u8
-#EXTINF:0,Zico TV
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/933.m3u8
-#EXTINF:0,Zjarr Tv
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/925.m3u8
-#EXTINF:0,RROKUM TV
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/585.m3u8
-#EXTINF:0,Al Jeazeera
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/532.m3u8
-#EXTINF:0,EuroNews
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/507.m3u8
-#EXTINF:0,Cufo TV
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/878.m3u8
-#EXTINF:0,Bang Bang
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/570.m3u8
-#EXTINF:0,RTV 21 Junior
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/732.m3u8
-#EXTINF:0,Tring Tring
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/555.m3u8
-#EXTINF:0,Tip TV-Tring
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/764.m3u8
-#EXTINF:0,T+
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/773.m3u8
-#EXTINF:0,Gold Film HD
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/818.m3u8
-#EXTINF:0,Film Nje HD
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/837.m3u8
-#EXTINF:0,Film Dy HD
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/836.m3u8
-#EXTINF:0,Jolly HD
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/727.m3u8
-#EXTINF:0,LIVING HD
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/726.m3u8
-#EXTINF:0,Film Hits
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/567.m3u8
-#EXTINF:0,Film Aksion
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/513.m3u8
-#EXTINF:0,Film Dramë
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/770.m3u8
-#EXTINF:0,Film Komedi
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/771.m3u8
-#EXTINF:0,Film Autor
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/772.m3u8
-#EXTINF:0,Film Triller
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/459.m3u8
-#EXTINF:0,Tring Super
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/559.m3u8
-#EXTINF:0,Tring Shqip
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/557.m3u8
-#EXTINF:0,Tring Planet
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/543.m3u8
-#EXTINF:0,Tring Max
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/560.m3u8
-#EXTINF:0,Tring Festa
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/545.m3u8
-#EXTINF:0,Tring History
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/723.m3u8
-#EXTINF:0,Tring Comedy
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/544.m3u8
-#EXTINF:0,TRING FANTASY
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/550.m3u8
-#EXTINF:0,MEDIASET ITALIA
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/820.m3u8
-#EXTINF:0,Explorer Histori
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/777.m3u8
-#EXTINF:0,Explorer Shkence
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/460.m3u8
-#EXTINF:0,Explorer Natyrë
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/778.m3u8
-#EXTINF:0,Travel Channel
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/547.m3u8
-#EXTINF:0,Nat Geographic
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/554.m3u8
-#EXTINF:0,RTL LIVING
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/904.m3u8
-#EXTINF:0,HISTORY CHANEL
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/905.m3u8
-#EXTINF:0,Discovery TLC
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/898.m3u8
-#EXTINF:0,Discovery Channel
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/894.m3u8
-#EXTINF:0,Crime & Investigation Network
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/897.m3u8
-#EXTINF:0,FOX
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/725.m3u8
-#EXTINF:0,Fox Life
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/552.m3u8
-#EXTINF:0,FOX Crime
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/738.m3u8
-#EXTINF:0,MUSE TV
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/736.m3u8
-#EXTINF:0,LUXE TV
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/731.m3u8
-#EXTINF:0,EROLDI
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/742.m3u8
-#EXTINF:0,3 Plus
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/741.m3u8
-#EXTINF:0,Dasma TV
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/668.m3u8
-#EXTINF:0,Sport Klub 1
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/522.m3u8
-#EXTINF:0,Sport Klub 2
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/489.m3u8
-#EXTINF:0,Sport Klub 3
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/903.m3u8
-#EXTINF:0,Super Sport 1
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/503.m3u8
-#EXTINF:0,Super Sport 2
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/452.m3u8
-#EXTINF:0,Super Sport 3
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/493.m3u8
-#EXTINF:0,Super Sport 4
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/774.m3u8
-#EXTINF:0,Tring Sport 1 HD
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/783.m3u8
-#EXTINF:0,Tring Sport 2 HD
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/784.m3u8
-#EXTINF:0,Tring Sport 3 HD
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/785.m3u8
-#EXTINF:0,Tring Sport 4 HD
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/786.m3u8
-#EXTINF:0,Arena Sport 1 HD
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/895.m3u8
-#EXTINF:0,Arena Sport 2 HD
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/901.m3u8
-#EXTINF:0,Arena Sport 3 HD
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/899.m3u8
-#EXTINF:0,Arena Sport 4 HD
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/900.m3u8
-#EXTINF:0,Arena Sport 5 HD
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/896.m3u8
-#EXTINF:0,Super Sport Kosova 1
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/775.m3u8
-#EXTINF:0,Super Sport Kosova 2
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/776.m3u8
-#EXTINF:0,Tring Sport News
-http://iptvfast.dyndns.org:5969/live/dilaver/dilaver/729.m3u8
-#EXTINF:-1,RROKUM TV
-rtmp://82.114.65.202/live//rrokumtv
-#EXTINF:-1,TV ERA
-http://217.16.82.6:1935/zulu//era_2/simpletvmaclinkleri.m3u8
-#EXTINF:-1,tvjug
-rtmp://84.20.77.50/live//livestream2
-#EXTINF:-1,Vizion Plus
-rtmp://slive.vizionplus.tv:1935/live/livestream2
-http://best-ul.mine.nu:8000/live/abcom/abcom/2.ts
-#EXTINF:-1,Rtk Kosova
-http://best-ul.mine.nu:8000/live/abcom/abcom/17.ts
-#EXTINF:-1,RTK 3
-http://185.75.56.97:4022/udp/239.255.3.5:12345
-#EXTINF:-1,21 HD
-http://best-ul.mine.nu:8000/live/abcom/abcom/40.ts
-#EXTINF:-1,Alsat M
-http://best-ul.mine.nu:8000/live/abcom/abcom/7.ts
-#EXTINF:-1,1 First
-http://best-ul.mine.nu:8000/live/abcom/abcom/11.ts
-#EXTINF:-1,Era Tv
-http://best-ul.mine.nu:8000/live/abcom/abcom/62.ts
-#EXTINF:-1,RTV Sharri
-http://best-ul.mine.nu:8000/live/abcom/abcom/61.ts
-#EXTINF:-1,Tv Globi Gostivar
-http://best-ul.mine.nu:8000/live/abcom/abcom/59.ts
-#EXTINF:-1,Film Nje HD
-http://best-ul.mine.nu:8000/live/abcom/abcom/32.ts
-#EXTINF:-1,Film Dy HD
-http://best-ul.mine.nu:8000/live/abcom/abcom/31.ts
-#EXTINF:-1,Plus HD
-http://best-ul.mine.nu:8000/live/abcom/abcom/29.ts
-#EXTINF:-1,Jolly HD
-http://best-ul.mine.nu:8000/live/abcom/abcom/43.ts
-#EXTINF:-1,Digi Gold
-http://best-ul.mine.nu:8000/live/abcom/abcom/26.ts
-#EXTINF:-1,Film Akcion
-http://best-ul.mine.nu:8000/live/abcom/abcom/21.ts
-#EXTINF:-1,Film Komedi
-http://best-ul.mine.nu:8000/live/abcom/abcom/24.ts
-#EXTINF:-1,Film Thriler
-http://best-ul.mine.nu:8000/live/abcom/abcom/25.ts
-#EXTINF:-1,Film Autor
-http://best-ul.mine.nu:8000/live/abcom/abcom/39.ts
-#EXTINF:-1,Stinet
-http://best-ul.mine.nu:8000/live/abcom/abcom/253.ts
-#EXTINF:-1,T HD
-http://best-ul.mine.nu:8000/live/abcom/abcom/30.ts
-#EXTINF:-1,Tring Shqip
-http://best-ul.mine.nu:8000/live/abcom/abcom/50.ts
-#EXTINF:-1,Tring Fantasy
-http://best-ul.mine.nu:8000/live/abcom/abcom/45.ts
-#EXTINF:-1,Tring History
-http://best-ul.mine.nu:8000/live/abcom/abcom/46.ts
-#EXTINF:-1,Tring Life
-http://best-ul.mine.nu:8000/live/abcom/abcom/47.ts
-#EXTINF:-1,Living HD
-http://best-ul.mine.nu:8000/live/abcom/abcom/251.ts
-#EXTINF:-1,Cufo Tv
-http://best-ul.mine.nu:8000/live/abcom/abcom/18.ts
-#EXTINF:-1,Junior Tv
-http://best-ul.mine.nu:8000/live/abcom/abcom/20.ts
-#EXTINF:-1,Folkplus
-http://best-ul.mine.nu:8000/live/abcom/abcom/37.ts
-#EXTINF:-1,TV Koha
-http://best-ul.mine.nu:8000/live/abcom/abcom/60.ts
-#EXTINF:-1,Abc News
-http://best-ul.mine.nu:8000/live/abcom/abcom/9.ts
-#EXTINF:-1,Top News
-http://best-ul.mine.nu:8000/live/abcom/abcom/8.ts
-#EXTINF:-1,A1 Report
-http://best-ul.mine.nu:8000/live/abcom/abcom/28.ts
-#EXTINF:0,ALB Tring Vizion Plus
-http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/956.ts
-#EXTINF:0,ALB Tring Shqip
-http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/955.ts
-#EXTINF:0,ALB Digitalb Supersports 2 HD
-http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/128.ts
-#EXTINF:0,ALB Digitalb Supersports 1HD
-http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/314.ts
-#EXTINF:0,ALB Digitalb Supersports 4 HD
-http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/130.ts
-#EXTINF:0,ALB Digitalb Film Thriller
-http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/696.ts
-#EXTINF:0,ALB Digitalb Film DY HD
-http://85.25.43.84:8000/live/UhWJi6MLyr/j4P7LhzKVz/697.ts
 #EXTINF:-1,Super sport 1
 http://185.75.56.97:4022/udp/239.2.1.5:1238
 #EXTINF:-1,Super sport 2
 http://185.75.56.97:4022/udp/239.2.1.1:1235
+#EXTINF:-1,Super sport Kosova 1
+http://185.75.56.97:4022/udp/231.1.1.10:2121
 #EXTINF:-1,Super sport Kosova 2
 http://185.75.56.97:4022/udp/231.1.1.6:1234
+#EXTINF:-1,SUPER
+http://185.75.56.97:4022/udp/239.255.42.1:12387
+#EXTINF:-1,COMEDY
+http://185.75.56.97:4022/udp/239.255.42.2:12389
 #EXTINF:-1,TIP
 http://185.75.56.97:4022/udp/239.255.42.3:12390
+#EXTINF:-1,TRING TRING
+http://185.75.56.97:4022/udp/239.255.42.4:12391
 #EXTINF:-1,PLANET
 http://185.75.56.97:4022/udp/239.255.42.5:12392
+#EXTINF:-1,LIFE
+http://185.75.56.97:4022/udp/239.255.42.8:12395
 #EXTINF:-1,MAX
 http://185.75.56.97:4022/udp/239.255.42.9:12396
 #EXTINF:-1,EXPLORER
 http://185.75.56.97:4022/udp/239.255.7.31:12345
-#EXTINF:-1, Top Channel
+#EXTINF:-1,VIASAT HISTORY
+http://185.75.56.97:4022/udp/239.255.7.32:12345
+#EXTINF:-1,EUROSPORT
+http://185.75.56.97:4022/udp/239.255.7.50:12345
+#EXTINF:-1,1 FIRST
+http://185.75.56.97:4022/udp/239.255.7.60:12345
+#EXTINF:-1,EUROSPORT 2 HD
+http://185.75.56.97:4022/udp/239.255.7.61:12345
+#EXTINF:-1,EUROSPORT HD
+http://185.75.56.97:4022/udp/239.255.7.64:12345
+#EXTINF:-1,ARTA
+http://185.75.56.97:4022/udp/225.168.10.183:1234
+#EXTINF:-1,
 http://185.75.56.97:4022/udp/231.1.1.5:1234
-#EXTINF:-1, SuperSport Kosova 2
+#EXTINF:-1,
 http://185.75.56.97:4022/udp/231.1.1.6:1234
-#EXTINF:-1, RTV 21 NEWS
+#EXTINF:-1,
 http://185.75.56.97:4022/udp/239.100.100.1:1234
+#EXTINF:-1,ARTE
+http://185.75.56.97:4022/udp/239.255.3.0:12345
+#EXTINF:-1,21 HD MIX
+http://185.75.56.97:4022/udp/239.255.3.1:12345
 #EXTINF:-1,21 HD JUNIOR
 http://185.75.56.97:4022/udp/239.255.3.2:12345
+#EXTINF:-1,RTK 3
+http://185.75.56.97:4022/udp/239.255.3.5:12345
+#EXTINF:-1,PULS
+http://185.75.56.97:4022/udp/239.255.3.8:12345
+#EXTINF:-1,A
+http://185.75.56.97:4022/udp/239.255.3.11:12345
+#EXTINF:-1,THE VOICE
+http://185.75.56.97:4022/udp/239.255.3.15:12345
+#EXTINF:-1,TURBO CHANNEL
+http://185.75.56.97:4022/udp/239.255.3.18:12345
+#EXTINF:-1,AL JAZEERA BALKAN
+http://185.75.56.97:4022/udp/239.255.3.20:12345
+#EXTINF:-1,FASHION
+http://185.75.56.97:4022/udp/239.255.3.21:12345
+#EXTINF:-1,HRT 3
+http://185.75.56.97:4022/udp/239.255.3.22:12345
+#EXTINF:-1,HRT 4
+http://185.75.56.97:4022/udp/239.255.3.23:12345
+#EXTINF:-1,ON TV
+http://185.75.56.97:4022/udp/239.255.3.25:12345
+#EXTINF:-1,DUCK
+http://185.75.56.97:4022/udp/239.255.3.26:12345
 #EXTINF:-1,DASMA TV
 http://185.75.56.97:4022/udp/239.255.3.27:12345
+#EXTINF:-1,VIASAT NATURE
+http://185.75.56.97:4022/udp/239.255.3.29:12345
+#EXTINF:-1,BALKANIKA
+http://185.75.56.97:4022/udp/239.255.3.30:12345
+#EXTINF:-1,FEN TV BUGARSKA
+http://185.75.56.97:4022/udp/239.255.3.31:12345
 #EXTINF:-1,21 HD POPULARE
 http://185.75.56.97:4022/udp/239.255.3.37:12345
+#EXTINF:-1,E KLAN
+http://185.75.56.97:4022/udp/239.255.3.38:12345
+#EXTINF:-1,CI
+http://185.75.56.97:4022/udp/239.255.3.39:12345
+#EXTINF:-1,E/I
+http://185.75.56.97:4022/udp/239.255.3.40:12345
+#EXTINF:-1,KBS WORLD HD
+http://185.75.56.97:4022/udp/239.255.3.41:12345
+#EXTINF:-1,MUSIC CNANNEL
+http://185.75.56.97:4022/udp/239.255.3.42:12345
+#EXTINF:-1,BESA
+http://185.75.56.97:4022/udp/239.255.3.43:12345
+#EXTINF:-1,VAU
+http://185.75.56.97:4022/udp/239.255.3.44:12345
+#EXTINF:-1,HISTORY
+http://185.75.56.97:4022/udp/239.255.3.45:12345
+#EXTINF:-1,PEACE TV
+http://185.75.56.97:4022/udp/239.255.3.49:12345
+#EXTINF:-1,AMOL
+http://185.75.56.97:4022/udp/239.255.3.50:12345
+#EXTINF:-1,DUK GJINI
+http://185.75.56.97:4022/udp/239.255.3.51:12345
 #EXTINF:-1,RTK 1
 http://185.75.56.97:4022/udp/239.255.2.3:10000
+#EXTINF:-1,SAT
+http://185.75.56.97:4022/udp/239.255.2.9:10000
 #EXTINF:-1,6 HD
 http://185.75.56.97:4022/udp/239.255.2.11:10000
-#EXTINF:-1,Klan KOSOVA
+#EXTINF:-1,ROURKM
+http://185.75.56.97:4022/udp/239.255.100.2:12345
+#EXTINF:-1,KOSOVA
 http://185.75.56.97:4022/udp/239.200.1.2:6093
-#EXTINF:-1, Folk Muzik
+#EXTINF:-1,MUZICKI
+http://185.75.56.97:4022/udp/239.200.1.3:6094
+#EXTINF:-1,
 http://185.75.56.97:4022/udp/239.0.20.25:6016
+#EXTINF:-1,MY MUSIC
+http://185.75.56.97:4022/udp/239.210.150.209:6887
 #EXTINF:-1,TOP CHANNEL HD
 http://185.75.56.97:4022/udp/239.200.33.151:60965
-#EXTINF:-1, First Kanali
+#EXTINF:-1,
 http://185.75.56.97:4022/udp/239.100.6.105:60997
 #EXTINF:-1,ALSAT M
 http://185.75.56.97:4022/udp/239.100.4.109:60994
@@ -380,6 +193,8 @@ http://185.75.56.97:4022/udp/239.100.4.109:60994
 http://185.75.56.97:4022/udp/239.200.0.1:1090
 #EXTINF:-1,AUTOR
 http://185.75.56.97:4022/udp/239.200.0.2:1091
+#EXTINF:-1,EXP NATYRA
+http://185.75.56.97:4022/udp/239.200.0.3:1092
 #EXTINF:-1,THRILLER
 http://185.75.56.97:4022/udp/239.200.0.4:1093
 #EXTINF:-1,DRAME
@@ -388,7 +203,17 @@ http://185.75.56.97:4022/udp/239.200.0.5:1094
 http://185.75.56.97:4022/udp/239.200.0.6:1095
 #EXTINF:-1,CUFO
 http://185.75.56.97:4022/udp/239.200.0.7:1096
-#EXTINF:-1, Film Aksion
+#EXTINF:-1,
+http://185.75.56.97:4022/udp/239.101.102.100:2536
+#EXTINF:-1,
 http://185.75.56.97:4022/udp/239.210.15.1:60783
-#EXTINF:-1, TV Mitrovica
+#EXTINF:-1,
+http://185.75.56.97:4022/udp/239.2.1.5:1238
+#EXTINF:-1,
 http://185.75.56.97:4022/udp/239.255.2.98:1415
+#EXTINF:-1,
+http://185.75.56.97:4022/udp/239.2.1.6:1237
+#EXTINF:-1,
+http://185.75.56.97:4022/udp/239.0.19.22:64433
+#EXTINF:-1,
+http://185.75.56.97:4022/udp/239.0.12.13:60156
