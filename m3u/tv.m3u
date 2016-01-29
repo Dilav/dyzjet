@@ -1,219 +1,223 @@
 #EXTM3U
-#EXTINF:-1, Film Aksion
-http://185.75.56.97:4022/udp/239.210.15.1:60783
-#EXTINF:-1, Tv Mitrovica
-http://185.75.56.97:4022/udp/239.2.1.5:1238
-#EXTINF:-1, Tv Mitrovica
-http://185.75.56.97:4022/udp/239.255.2.98:1415
-#EXTINF:-1,Alsat M
-http://185.75.56.97:4022/udp/239.0.19.22:64433
-#EXTINF:-1,Bang Bang
-http://185.75.56.97:4022/udp/239.0.12.13:60156
-#EXTINF:-1,[AL] Top Channel HD
-http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/383.ts
-#EXTINF:-1,[AL] RTK
-http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/352.ts
-#EXTINF:-1,[AL] Klan HD
-http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/356.ts
-#EXTINF:-1,[AL] Vizion Plus
-http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/419.ts
-#EXTINF:-1,Rtk Test
-http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/711.ts
-#EXTINF:-1,[AL] KTV
-http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/354.ts
-#EXTINF:-1,[AL] KTV Test
-http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/713.ts
-#EXTINF:-1,[AL] RTV 21 HD
-http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/353.ts
-#EXTINF:-1,RTV 21 Tokesor
-http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/712.ts
-#EXTINF:-1,[AL] Klan Kosova
-http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/355.ts
-#EXTINF:-1,[AL] Klan Kosova Tokesor
-http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/714.ts
-#EXTINF:-1,[MK] ALSAT M
-http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/357.ts
-#EXTINF:-1,News 24
-http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/1475.ts
-#EXTINF:-1,[AL] Top News
-http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/397.ts
-#EXTINF:-1,[AL] ABC NEWS
-http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/1648.ts
-#EXTINF:-1,[AL] Plus HD
-http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/844.ts
-#EXTINF:-1,Top news HD
-http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/1133.ts
-#EXTINF:-1,[AL] Era TV
-http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/411.ts
-#EXTINF:-1,[AL] TV Music
-http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/412.ts
-#EXTINF:-1,[AL] RTV 21 HD Popullore
-http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/402.ts
-#EXTINF:-1,[AL] RTV 21 HD Plus
-http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/403.ts
-#EXTINF:-1,SuperSonic
-http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/1476.ts
-#EXTINF:-1,Apollon TV
-http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/1473.ts
-#EXTINF:-1,[AL] Folk
-http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/410.ts
-#EXTINF:-1,[AL] 3  HD Music
-http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/415.ts
-#EXTINF:-1,[AL] Dasma TV
-http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/823.ts
-#EXTINF:-1,[AL] TVSH
-http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/418.ts
-#EXTINF:-1,[AL] Rrokum TV
-http://smartiptv.no-ip.org:21000/live/Provasat/86q0nMqGiX/358.ts
-#EXTINF:-1,Super sport 1
-http://185.75.56.97:4022/udp/239.2.1.5:1238
-#EXTINF:-1,Super sport 2
-http://185.75.56.97:4022/udp/239.2.1.1:1235
-#EXTINF:-1,Super sport Kosova 1
-http://185.75.56.97:4022/udp/231.1.1.10:2121
-#EXTINF:-1,Super sport Kosova 2
-http://185.75.56.97:4022/udp/231.1.1.6:1234
-#EXTINF:-1,SUPER
-http://185.75.56.97:4022/udp/239.255.42.1:12387
-#EXTINF:-1,COMEDY
-http://185.75.56.97:4022/udp/239.255.42.2:12389
-#EXTINF:-1,TIP
-http://185.75.56.97:4022/udp/239.255.42.3:12390
-#EXTINF:-1,TRING TRING
-http://185.75.56.97:4022/udp/239.255.42.4:12391
-#EXTINF:-1,PLANET
-http://185.75.56.97:4022/udp/239.255.42.5:12392
-#EXTINF:-1,LIFE
-http://185.75.56.97:4022/udp/239.255.42.8:12395
-#EXTINF:-1,MAX
-http://185.75.56.97:4022/udp/239.255.42.9:12396
-#EXTINF:-1,EXPLORER
-http://185.75.56.97:4022/udp/239.255.7.31:12345
-#EXTINF:-1,VIASAT HISTORY
-http://185.75.56.97:4022/udp/239.255.7.32:12345
-#EXTINF:-1,EUROSPORT
-http://185.75.56.97:4022/udp/239.255.7.50:12345
-#EXTINF:-1,1 FIRST
-http://185.75.56.97:4022/udp/239.255.7.60:12345
-#EXTINF:-1,EUROSPORT 2 HD
-http://185.75.56.97:4022/udp/239.255.7.61:12345
-#EXTINF:-1,EUROSPORT HD
-http://185.75.56.97:4022/udp/239.255.7.64:12345
-#EXTINF:-1,ARTA
-http://185.75.56.97:4022/udp/225.168.10.183:1234
-#EXTINF:-1,
-http://185.75.56.97:4022/udp/231.1.1.5:1234
-#EXTINF:-1,
-http://185.75.56.97:4022/udp/231.1.1.6:1234
-#EXTINF:-1,
-http://185.75.56.97:4022/udp/239.100.100.1:1234
-#EXTINF:-1,ARTE
-http://185.75.56.97:4022/udp/239.255.3.0:12345
-#EXTINF:-1,21 HD MIX
-http://185.75.56.97:4022/udp/239.255.3.1:12345
-#EXTINF:-1,21 HD JUNIOR
-http://185.75.56.97:4022/udp/239.255.3.2:12345
-#EXTINF:-1,RTK 3
-http://185.75.56.97:4022/udp/239.255.3.5:12345
-#EXTINF:-1,PULS
-http://185.75.56.97:4022/udp/239.255.3.8:12345
-#EXTINF:-1,A
-http://185.75.56.97:4022/udp/239.255.3.11:12345
-#EXTINF:-1,THE VOICE
-http://185.75.56.97:4022/udp/239.255.3.15:12345
-#EXTINF:-1,TURBO CHANNEL
-http://185.75.56.97:4022/udp/239.255.3.18:12345
-#EXTINF:-1,AL JAZEERA BALKAN
-http://185.75.56.97:4022/udp/239.255.3.20:12345
-#EXTINF:-1,FASHION
-http://185.75.56.97:4022/udp/239.255.3.21:12345
-#EXTINF:-1,HRT 3
-http://185.75.56.97:4022/udp/239.255.3.22:12345
-#EXTINF:-1,HRT 4
-http://185.75.56.97:4022/udp/239.255.3.23:12345
-#EXTINF:-1,ON TV
-http://185.75.56.97:4022/udp/239.255.3.25:12345
-#EXTINF:-1,DUCK
-http://185.75.56.97:4022/udp/239.255.3.26:12345
-#EXTINF:-1,DASMA TV
-http://185.75.56.97:4022/udp/239.255.3.27:12345
-#EXTINF:-1,VIASAT NATURE
-http://185.75.56.97:4022/udp/239.255.3.29:12345
-#EXTINF:-1,BALKANIKA
-http://185.75.56.97:4022/udp/239.255.3.30:12345
-#EXTINF:-1,FEN TV BUGARSKA
-http://185.75.56.97:4022/udp/239.255.3.31:12345
-#EXTINF:-1,21 HD POPULARE
-http://185.75.56.97:4022/udp/239.255.3.37:12345
-#EXTINF:-1,E KLAN
-http://185.75.56.97:4022/udp/239.255.3.38:12345
-#EXTINF:-1,CI
-http://185.75.56.97:4022/udp/239.255.3.39:12345
-#EXTINF:-1,E/I
-http://185.75.56.97:4022/udp/239.255.3.40:12345
-#EXTINF:-1,KBS WORLD HD
-http://185.75.56.97:4022/udp/239.255.3.41:12345
-#EXTINF:-1,MUSIC CNANNEL
-http://185.75.56.97:4022/udp/239.255.3.42:12345
-#EXTINF:-1,BESA
-http://185.75.56.97:4022/udp/239.255.3.43:12345
-#EXTINF:-1,VAU
-http://185.75.56.97:4022/udp/239.255.3.44:12345
-#EXTINF:-1,HISTORY
-http://185.75.56.97:4022/udp/239.255.3.45:12345
-#EXTINF:-1,PEACE TV
-http://185.75.56.97:4022/udp/239.255.3.49:12345
-#EXTINF:-1,AMOL
-http://185.75.56.97:4022/udp/239.255.3.50:12345
-#EXTINF:-1,DUK GJINI
-http://185.75.56.97:4022/udp/239.255.3.51:12345
-#EXTINF:-1,RTK 1
-http://185.75.56.97:4022/udp/239.255.2.3:10000
-#EXTINF:-1,SAT
-http://185.75.56.97:4022/udp/239.255.2.9:10000
-#EXTINF:-1,6 HD
-http://185.75.56.97:4022/udp/239.255.2.11:10000
-#EXTINF:-1,ROURKM
-http://185.75.56.97:4022/udp/239.255.100.2:12345
-#EXTINF:-1,KOSOVA
-http://185.75.56.97:4022/udp/239.200.1.2:6093
-#EXTINF:-1,MUZICKI
-http://185.75.56.97:4022/udp/239.200.1.3:6094
-#EXTINF:-1,
-http://185.75.56.97:4022/udp/239.0.20.25:6016
-#EXTINF:-1,MY MUSIC
-http://185.75.56.97:4022/udp/239.210.150.209:6887
-#EXTINF:-1,TOP CHANNEL HD
-http://185.75.56.97:4022/udp/239.200.33.151:60965
-#EXTINF:-1,
-http://185.75.56.97:4022/udp/239.100.6.105:60997
-#EXTINF:-1,ALSAT M
-http://185.75.56.97:4022/udp/239.100.4.109:60994
-#EXTINF:-1,HITS
-http://185.75.56.97:4022/udp/239.200.0.1:1090
-#EXTINF:-1,AUTOR
-http://185.75.56.97:4022/udp/239.200.0.2:1091
-#EXTINF:-1,EXP NATYRA
-http://185.75.56.97:4022/udp/239.200.0.3:1092
-#EXTINF:-1,THRILLER
-http://185.75.56.97:4022/udp/239.200.0.4:1093
-#EXTINF:-1,DRAME
-http://185.75.56.97:4022/udp/239.200.0.5:1094
-#EXTINF:-1,JUNIOR
-http://185.75.56.97:4022/udp/239.200.0.6:1095
-#EXTINF:-1,CUFO
-http://185.75.56.97:4022/udp/239.200.0.7:1096
-#EXTINF:-1,
-http://185.75.56.97:4022/udp/239.101.102.100:2536
-#EXTINF:-1,
-http://185.75.56.97:4022/udp/239.210.15.1:60783
-#EXTINF:-1,
-http://185.75.56.97:4022/udp/239.2.1.5:1238
-#EXTINF:-1,
-http://185.75.56.97:4022/udp/239.255.2.98:1415
-#EXTINF:-1,
-http://185.75.56.97:4022/udp/239.2.1.6:1237
-#EXTINF:-1,
-http://185.75.56.97:4022/udp/239.0.19.22:64433
-#EXTINF:-1,
-http://185.75.56.97:4022/udp/239.0.12.13:60156
+#EXTINF:-1,ALB: Film Aksion
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12425.ts
+#EXTINF:-1,ALB: Film Autor
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12424.ts
+#EXTINF:-1,ALB: Film Drame
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12423.ts
+#EXTINF:-1,ALB: Film Dy HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12422.ts
+#EXTINF:-1,ALB: Lugina Sci-Fi HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12401.ts
+#EXTINF:-1,ALB: Film Hits
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12421.ts
+#EXTINF:-1,ALB: Film Hits 1
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12420.ts
+#EXTINF:-1,ALB: Film Stinet
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12416.ts
+#EXTINF:-1,ALB: Film Nje HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12417.ts
+#EXTINF:-1,ALB: Film Komedi
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12418.ts
+#EXTINF:-1,ALB: Film Junior
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12419.ts
+#EXTINF:-1,ALB: Film Thriller
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12415.ts
+#EXTINF:-1,ALB: First Channel
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12414.ts
+#EXTINF:-1,ALB: Lugina Premiere 1 HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12402.ts
+#EXTINF:-1,ALB: Lugina Premiere 2 HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12403.ts
+#EXTINF:-1,ALB: Lugina Premiere 3 HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12404.ts
+#EXTINF:-1,ALB: Tring World
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12356.ts
+#EXTINF:-1,ALB: Tring Tring
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12357.ts
+#EXTINF:-1,ALB: Tring Super
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12358.ts
+#EXTINF:-1,ALB: Tring Sport News HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12359.ts
+#EXTINF:-1,ALB: Tring Sport 4 HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12450.ts
+#EXTINF:-1,ALB: Tring Sport 3 HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12449.ts
+#EXTINF:-1,ALB: Tring Sport 2 HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12448.ts
+#EXTINF:-1,ALB: Tring Sport 1 HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12447.ts
+#EXTINF:-1,ALB: Tring Shqip
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12360.ts
+#EXTINF:-1,ALB: Tring Planet
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12361.ts
+#EXTINF:-1,ALB: Tring Max
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12362.ts
+#EXTINF:-1,ALB: Tring History
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12363.ts
+#EXTINF:-1,ALB: Tring Festa
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12364.ts
+#EXTINF:-1,ALB: Tring Fantasy
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12365.ts
+#EXTINF:-1,ALB: Tring Comedy
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12366.ts
+#EXTINF:-1,ALB: Tring 3
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12367.ts
+#EXTINF:-1,ALB: Explorer Shkenca
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12426.ts
+#EXTINF:-1,ALB: Explorer Natyra
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12427.ts
+#EXTINF:-1,ALB: Explorer Histori
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12428.ts
+#EXTINF:-1,ALB: Elrodi TV
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12429.ts
+#EXTINF:-1,ALB: DIGI Sofia
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12430.ts
+#EXTINF:-1,ALB: DIGI Gold
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12431.ts
+#EXTINF:-1,ALB: Tribuna TV
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12368.ts
+#EXTINF:-1,ALB: Top News
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12369.ts
+#EXTINF:-1,ALB: Top Channel
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12370.ts
+#EXTINF:-1,ALB: Tirana TV
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12371.ts
+#EXTINF:-1,ALB: Tip TV
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12372.ts
+#EXTINF:-1,ALB: Tele Sport
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12373.ts
+#EXTINF:-1,ALB: T HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12374.ts
+#EXTINF:-1,ALB: Zico TV
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12339.ts
+#EXTINF:-1,ALB: Vizion
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12340.ts
+#EXTINF:-1,ALB: TVSH
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12341.ts
+#EXTINF:-1,ALB: TV Tetova HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12342.ts
+#EXTINF:-1,ALB: TV Sharri HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12343.ts
+#EXTINF:-1,ALB: TV R
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12344.ts
+#EXTINF:-1,ALB: TV Presheva (test Sinjal)
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12345.ts
+#EXTINF:-1,ALB: TV Opoja
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12346.ts
+#EXTINF:-1,ALB: TV Liret
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12347.ts
+#EXTINF:-1,ALB: TV Lezha
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12348.ts
+#EXTINF:-1,ALB: TV Kosova
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12349.ts
+#EXTINF:-1,ALB: TV Istogu
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12350.ts
+#EXTINF:-1,ALB: TV Globi Gostivar
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12351.ts
+#EXTINF:-1,ALB: TV Era
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12352.ts
+#EXTINF:-1,ALB: TV Dukagjini
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12353.ts
+#EXTINF:-1,ALB: TV Bujanoc (test Sinjal)
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12354.ts
+#EXTINF:-1,ALB: TV Aldi (test Sinjal)
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12355.ts
+#EXTINF:-1,ALB: Syri Vizion
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12375.ts
+#EXTINF:-1,ALB: SuperSonic TV HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12376.ts
+#EXTINF:-1,ALB: Super Sport Kosova 2 HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12452.ts
+#EXTINF:-1,ALB: Super Sport Kosova 1 HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12451.ts
+#EXTINF:-1,ALB: Super Sport 5 HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12457.ts
+#EXTINF:-1,ALB: Super Sport 4 HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12456.ts
+#EXTINF:-1,ALB: Super Sport 3 HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12455.ts
+#EXTINF:-1,ALB: Super Sport 2 HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12454.ts
+#EXTINF:-1,ALB: Super Sport 1 HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12453.ts
+#EXTINF:-1,ALB: Star Plus
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12377.ts
+#EXTINF:-1,ALB: RTV 21 Popullore HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12380.ts
+#EXTINF:-1,ALB: RTV 21 Plus HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12381.ts
+#EXTINF:-1,ALB: RTV 21 MK HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12382.ts
+#EXTINF:-1,ALB: RTV 21 Junior
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12383.ts
+#EXTINF:-1,ALB: RTV 21 HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12384.ts
+#EXTINF:-1,ALB: RTK 4
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12389.ts
+#EXTINF:-1,ALB: RTK 3
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12388.ts
+#EXTINF:-1,ALB: RTK 1 Tokesor
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12387.ts
+#EXTINF:-1,ALB: RTK 1 HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12386.ts
+#EXTINF:-1,ALB: RTK 1
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12385.ts
+#EXTINF:-1,ALB: Rrokum HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12390.ts
+#EXTINF:-1,ALB: Plus HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12391.ts
+#EXTINF:-1,ALB: Peace TV
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12392.ts
+#EXTINF:-1,ALB: Ora News
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12393.ts
+#EXTINF:-1,ALB: News 24
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12394.ts
+#EXTINF:-1,ALB: My Music
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12395.ts
+#EXTINF:-1,ALB: Living HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12405.ts
+#EXTINF:-1,ALB: KTV  HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12406.ts
+#EXTINF:-1,ALB: KTV
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12407.ts
+#EXTINF:-1,ALB: Koha TV
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12408.ts
+#EXTINF:-1,ALB: Klan Kosova HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12337.ts
+#EXTINF:-1,ALB: Klan HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12338.ts
+#EXTINF:-1,ALB: Kanali 7
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12409.ts
+#EXTINF:-1,ALB: Jug TV
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12410.ts
+#EXTINF:-1,ALB: Jolly HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12411.ts
+#EXTINF:-1,ALB: Folklorit
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12412.ts
+#EXTINF:-1,ALB: Folk
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12413.ts
+#EXTINF:-1,ALB: Dasma TV
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12432.ts
+#EXTINF:-1,ALB: Cufo
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12433.ts
+#EXTINF:-1,ALB: Besa
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12434.ts
+#EXTINF:-1,ALB: Ballkan TV
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12437.ts
+#EXTINF:-1,ALB: Alsat HD
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12438.ts
+#EXTINF:-1,ALB: Alsat
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12439.ts
+#EXTINF:-1,ALB: ALB Music
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12440.ts
+#EXTINF:-1,ALB: ALB Kids
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12441.ts
+#EXTINF:-1,ALB: ALB Hits
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12442.ts
+#EXTINF:-1,ALB: ABC News
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12443.ts
+#EXTINF:-1,ALB: A1 Shqiptare
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12444.ts
+#EXTINF:-1,ALB: A1 Report
+http://luckyiptv.ddns.net:23000/live/massimiliano/massimiliano/12445.ts
