@@ -1,189 +1,243 @@
 #EXTM3U
-#EXTINF:0,ALB: Vision
-http://cp.dmbshare.net:8000/live/andy/andy/1737.ts
-#EXTINF:0,ALB: TVSH
-http://cp.dmbshare.net:8000/live/andy/andy/1733.ts
-#EXTINF:0,ALB: TVDukagjini
-http://cp.dmbshare.net:8000/live/andy/andy/1828.ts
-#EXTINF:0,ALB: TV koha
-http://cp.dmbshare.net:8000/live/andy/andy/1818.ts
-#EXTINF:0,ALB: Tring World
-http://cp.dmbshare.net:8000/live/andy/andy/1755.ts
-#EXTINF:0,ALB: Tring Tring
-http://cp.dmbshare.net:8000/live/andy/andy/1747.ts
-#EXTINF:0,ALB: Tring Super
-http://cp.dmbshare.net:8000/live/andy/andy/1740.ts
-#EXTINF:0,ALB: Tring Sport 4
-http://cp.dmbshare.net:8000/live/andy/andy/1827.ts
-#EXTINF:0,ALB: Tring Sport 3
-http://cp.dmbshare.net:8000/live/andy/andy/1826.ts
-#EXTINF:0,ALB: Tring Sport 2
-http://cp.dmbshare.net:8000/live/andy/andy/1825.ts
-#EXTINF:0,ALB: Tring Sport 1
-http://cp.dmbshare.net:8000/live/andy/andy/1824.ts
-#EXTINF:0,ALB: Tring Sport
-http://cp.dmbshare.net:8000/live/andy/andy/1757.ts
-#EXTINF:0,ALB: Tring Shqip
-http://cp.dmbshare.net:8000/live/andy/andy/1743.ts
-#EXTINF:0,ALB: Tring Planet
-http://cp.dmbshare.net:8000/live/andy/andy/1754.ts
-#EXTINF:0,ALB: Tring Max
-http://cp.dmbshare.net:8000/live/andy/andy/1739.ts
-#EXTINF:0,ALB: Tring Life
-http://cp.dmbshare.net:8000/live/andy/andy/1741.ts
-#EXTINF:0,ALB: Tring History
-http://cp.dmbshare.net:8000/live/andy/andy/1753.ts
-#EXTINF:0,ALB: Tring Fantasy
-http://cp.dmbshare.net:8000/live/andy/andy/1744.ts
-#EXTINF:0,ALB: Tring Comedy
-http://cp.dmbshare.net:8000/live/andy/andy/1742.ts
-#EXTINF:0,ALB: Travel Channel
-http://cp.dmbshare.net:8000/live/andy/andy/1787.ts
-#EXTINF:0,ALB: Top News
-http://cp.dmbshare.net:8000/live/andy/andy/1766.ts
-#EXTINF:0,ALB: Top Channel
-http://cp.dmbshare.net:8000/live/andy/andy/1734.ts
-#EXTINF:0,ALB: Tip TV
-http://cp.dmbshare.net:8000/live/andy/andy/1748.ts
-#EXTINF:0,ALB: TeleSport
-http://cp.dmbshare.net:8000/live/andy/andy/1808.ts
-#EXTINF:0,ALB: T
-http://cp.dmbshare.net:8000/live/andy/andy/1769.ts
-#EXTINF:0,ALB: SS 4
-http://cp.dmbshare.net:8000/live/andy/andy/1794.ts
-#EXTINF:0,ALB: SS 3
-http://cp.dmbshare.net:8000/live/andy/andy/1793.ts
-#EXTINF:0,ALB: SS 2
-http://cp.dmbshare.net:8000/live/andy/andy/1792.ts
-#EXTINF:0,ALB: SS 1
-http://cp.dmbshare.net:8000/live/andy/andy/1791.ts
-#EXTINF:0,ALB: Sport Klub Start
-http://cp.dmbshare.net:8000/live/andy/andy/1798.ts
-#EXTINF:0,ALB: Sport Klub 3
-http://cp.dmbshare.net:8000/live/andy/andy/1801.ts
-#EXTINF:0,ALB: Sport Klub 2
-http://cp.dmbshare.net:8000/live/andy/andy/1800.ts
-#EXTINF:0,ALB: Sport Klub 1
-http://cp.dmbshare.net:8000/live/andy/andy/1799.ts
-#EXTINF:0,ALB: Smile
-http://cp.dmbshare.net:8000/live/andy/andy/1746.ts
-#EXTINF:0,ALB: RTV21Plus
-http://cp.dmbshare.net:8000/live/andy/andy/1809.ts
-#EXTINF:0,ALB: RTV21 Popullore
-http://cp.dmbshare.net:8000/live/andy/andy/1751.ts
-#EXTINF:0,ALB: RTV21 Junior
-http://cp.dmbshare.net:8000/live/andy/andy/1749.ts
-#EXTINF:0,ALB: RTV21
-http://cp.dmbshare.net:8000/live/andy/andy/1731.ts
-#EXTINF:0,ALB: RTV Presheva
-http://cp.dmbshare.net:8000/live/andy/andy/1820.ts
-#EXTINF:0,ALB: RTV Bujanoci
-http://cp.dmbshare.net:8000/live/andy/andy/1821.ts
-#EXTINF:0,ALB: RTV ALDI
-http://cp.dmbshare.net:8000/live/andy/andy/1790.ts
-#EXTINF:0,ALB: RTS 2
-http://cp.dmbshare.net:8000/live/andy/andy/1816.ts
-#EXTINF:0,ALB: RTS 1
-http://cp.dmbshare.net:8000/live/andy/andy/1815.ts
-#EXTINF:0,ALB: RTL Croatia
-http://cp.dmbshare.net:8000/live/andy/andy/1813.ts
-#EXTINF:0,ALB: RTK
-http://cp.dmbshare.net:8000/live/andy/andy/1730.ts
-#EXTINF:0,ALB: Rrokum TV
-http://cp.dmbshare.net:8000/live/andy/andy/1761.ts
-#EXTINF:0,ALB: Ora News
-http://cp.dmbshare.net:8000/live/andy/andy/1784.ts
-#EXTINF:0,ALB: Muse
-http://cp.dmbshare.net:8000/live/andy/andy/1789.ts
-#EXTINF:0,ALB: MRT 2
-http://cp.dmbshare.net:8000/live/andy/andy/1764.ts
-#EXTINF:0,ALB: Motors TV
-http://cp.dmbshare.net:8000/live/andy/andy/1807.ts
-#EXTINF:0,ALB: Luxe TV
-http://cp.dmbshare.net:8000/live/andy/andy/1765.ts
-#EXTINF:0,ALB: Living
-http://cp.dmbshare.net:8000/live/andy/andy/1750.ts
-#EXTINF:0,ALB: KTV
-http://cp.dmbshare.net:8000/live/andy/andy/1732.ts
-#EXTINF:0,ALB: Klan Kosova
-http://cp.dmbshare.net:8000/live/andy/andy/1735.ts
-#EXTINF:0,ALB: Klan
-http://cp.dmbshare.net:8000/live/andy/andy/1736.ts
-#EXTINF:0,ALB: Kanal 7
-http://cp.dmbshare.net:8000/live/andy/andy/1760.ts
-#EXTINF:0,ALB: Jolly HD
-http://cp.dmbshare.net:8000/live/andy/andy/1797.ts
-#EXTINF:0,ALB: Islam Channel
-http://cp.dmbshare.net:8000/live/andy/andy/1786.ts
-#EXTINF:0,ALB: HRT 2
-http://cp.dmbshare.net:8000/live/andy/andy/1812.ts
-#EXTINF:0,ALB: HRT 1
-http://cp.dmbshare.net:8000/live/andy/andy/1811.ts
-#EXTINF:0,ALB: Fox Life
-http://cp.dmbshare.net:8000/live/andy/andy/1759.ts
-#EXTINF:0,ALB: Fox Crime
-http://cp.dmbshare.net:8000/live/andy/andy/1758.ts
-#EXTINF:0,ALB: Folk
-http://cp.dmbshare.net:8000/live/andy/andy/1756.ts
-#EXTINF:0,ALB: Film Thriller
-http://cp.dmbshare.net:8000/live/andy/andy/1777.ts
-#EXTINF:0,ALB: Film Nje
-http://cp.dmbshare.net:8000/live/andy/andy/1778.ts
-#EXTINF:0,ALB: Film Hits
-http://cp.dmbshare.net:8000/live/andy/andy/1776.ts
-#EXTINF:0,ALB: Film Dy
-http://cp.dmbshare.net:8000/live/andy/andy/1779.ts
-#EXTINF:0,ALB: Film Drame
-http://cp.dmbshare.net:8000/live/andy/andy/1773.ts
-#EXTINF:0,ALB: Film Comedy
-http://cp.dmbshare.net:8000/live/andy/andy/1775.ts
-#EXTINF:0,ALB: Film Autor
-http://cp.dmbshare.net:8000/live/andy/andy/1772.ts
-#EXTINF:0,ALB: Film Aksion
-http://cp.dmbshare.net:8000/live/andy/andy/1774.ts
-#EXTINF:0,ALB: Explorer Shkence
-http://cp.dmbshare.net:8000/live/andy/andy/1781.ts
-#EXTINF:0,ALB: Explorer Natyra
-http://cp.dmbshare.net:8000/live/andy/andy/1782.ts
-#EXTINF:0,ALB: Explorer History
-http://cp.dmbshare.net:8000/live/andy/andy/1780.ts
-#EXTINF:0,ALB: ERA TV
-http://cp.dmbshare.net:8000/live/andy/andy/1783.ts
-#EXTINF:0,ALB: ELRODI
-http://cp.dmbshare.net:8000/live/andy/andy/1752.ts
-#EXTINF:0,ALB: DigiGold
-http://cp.dmbshare.net:8000/live/andy/andy/1795.ts
-#EXTINF:0,ALB: Digi Sofia
-http://cp.dmbshare.net:8000/live/andy/andy/1796.ts
-#EXTINF:0,ALB: Dasma
-http://cp.dmbshare.net:8000/live/andy/andy/1819.ts
-#EXTINF:0,ALB: Cufo
-http://cp.dmbshare.net:8000/live/andy/andy/1771.ts
-#EXTINF:0,ALB: Click TV
-http://cp.dmbshare.net:8000/live/andy/andy/1767.ts
-#EXTINF:0,ALB: BBF
-http://cp.dmbshare.net:8000/live/andy/andy/1788.ts
-#EXTINF:0,ALB: Bang Bang
-http://cp.dmbshare.net:8000/live/andy/andy/1770.ts
-#EXTINF:0,ALB: B92
-http://cp.dmbshare.net:8000/live/andy/andy/1822.ts
-#EXTINF:0,ALB: Arta TV
-http://cp.dmbshare.net:8000/live/andy/andy/1762.ts
-#EXTINF:0,ALB: Arena Sport 5
-http://cp.dmbshare.net:8000/live/andy/andy/1806.ts
-#EXTINF:0,ALB: Arena Sport 4
-http://cp.dmbshare.net:8000/live/andy/andy/1805.ts
-#EXTINF:0,ALB: Arena Sport 3
-http://cp.dmbshare.net:8000/live/andy/andy/1804.ts
-#EXTINF:0,ALB: Arena Sport 2
-http://cp.dmbshare.net:8000/live/andy/andy/1803.ts
-#EXTINF:0,ALB: Arena Sport 1
-http://cp.dmbshare.net:8000/live/andy/andy/1802.ts
-#EXTINF:0,ALB: Alsat-M
-http://cp.dmbshare.net:8000/live/andy/andy/1763.ts
-#EXTINF:0,ALB: Albanian Screen
-http://cp.dmbshare.net:8000/live/andy/andy/1785.ts
-#EXTINF:0,ALB: Agon Channel
-http://cp.dmbshare.net:8000/live/andy/andy/1738.ts
-#EXTINF:0,ALB: ABC News
-http://cp.dmbshare.net:8000/live/andy/andy/1768.ts
+#EXTINF:-1 tvg-id="" tvg-name="========ALBANIA=======" tvg-logo="" group-title="Albanesi",========ALBANIA=======
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12336.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Super Sport 5 HD" tvg-logo="" group-title="Albanesi",ALB: Super Sport 5 HD
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12457.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Super Sport 4 HD" tvg-logo="" group-title="Albanesi",ALB: Super Sport 4 HD
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12456.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Super Sport 3 HD" tvg-logo="" group-title="Albanesi",ALB: Super Sport 3 HD
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12455.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Super Sport 2 HD" tvg-logo="" group-title="Albanesi",ALB: Super Sport 2 HD
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12454.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Super Sport 1 HD" tvg-logo="" group-title="Albanesi",ALB: Super Sport 1 HD
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12453.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Star Plus" tvg-logo="" group-title="Albanesi",ALB: Star Plus
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12377.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Smile" tvg-logo="" group-title="Albanesi",ALB: Smile
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12378.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: RTV Islam" tvg-logo="" group-title="Albanesi",ALB: RTV Islam
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12379.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: RTV 21 Popullore HD" tvg-logo="" group-title="Albanesi",ALB: RTV 21 Popullore HD
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12380.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: RTV 21 Plus HD" tvg-logo="" group-title="Albanesi",ALB: RTV 21 Plus HD
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12381.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: RTV 21 MK HD" tvg-logo="" group-title="Albanesi",ALB: RTV 21 MK HD
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12382.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: RTV 21 Junior" tvg-logo="" group-title="Albanesi",ALB: RTV 21 Junior
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12383.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: RTV 21 HD" tvg-logo="" group-title="Albanesi",ALB: RTV 21 HD
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12384.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: RTK 4" tvg-logo="" group-title="Albanesi",ALB: RTK 4
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12389.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: RTK 3" tvg-logo="" group-title="Albanesi",ALB: RTK 3
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12388.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: RTK 1 Tokesor" tvg-logo="" group-title="Albanesi",ALB: RTK 1 Tokesor
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12387.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: RTK 1 HD" tvg-logo="" group-title="Albanesi",ALB: RTK 1 HD
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12386.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: RTK 1" tvg-logo="" group-title="Albanesi",ALB: RTK 1
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12385.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Rrokum HD" tvg-logo="" group-title="Albanesi",ALB: Rrokum HD
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12390.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Plus HD" tvg-logo="" group-title="Albanesi",ALB: Plus HD
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12391.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Peace TV" tvg-logo="" group-title="Albanesi",ALB: Peace TV
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12392.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Ora News" tvg-logo="" group-title="Albanesi",ALB: Ora News
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12393.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: News 24" tvg-logo="" group-title="Albanesi",ALB: News 24
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12394.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: My Music" tvg-logo="" group-title="Albanesi",ALB: My Music
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12395.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Muse" tvg-logo="" group-title="Albanesi",ALB: Muse
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12396.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: MRTV 2 HD" tvg-logo="" group-title="Albanesi",ALB: MRTV 2 HD
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12397.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Mekka Live" tvg-logo="" group-title="Albanesi",ALB: Mekka Live
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12398.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Medina Live" tvg-logo="" group-title="Albanesi",ALB: Medina Live
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12399.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Luxe Tv" tvg-logo="" group-title="Albanesi",ALB: Luxe Tv
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12400.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Lugina Sci-Fi HD" tvg-logo="" group-title="Albanesi",ALB: Lugina Sci-Fi HD
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12401.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Lugina Premiere 3 HD" tvg-logo="" group-title="Albanesi",ALB: Lugina Premiere 3 HD
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12404.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Lugina Premiere 2 HD" tvg-logo="" group-title="Albanesi",ALB: Lugina Premiere 2 HD
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12403.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Lugina Premiere 1 HD" tvg-logo="" group-title="Albanesi",ALB: Lugina Premiere 1 HD
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12402.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Living HD" tvg-logo="" group-title="Albanesi",ALB: Living HD
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12405.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: KTV  HD" tvg-logo="" group-title="Albanesi",ALB: KTV  HD
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12406.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: KTV" tvg-logo="" group-title="Albanesi",ALB: KTV
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12407.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Koha TV" tvg-logo="" group-title="Albanesi",ALB: Koha TV
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12408.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Klan Kosova HD" tvg-logo="" group-title="Albanesi",ALB: Klan Kosova HD
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12337.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Klan HD" tvg-logo="" group-title="Albanesi",ALB: Klan HD
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12338.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Kanali 7" tvg-logo="" group-title="Albanesi",ALB: Kanali 7
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12409.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Jug TV" tvg-logo="" group-title="Albanesi",ALB: Jug TV
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12410.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Jolly HD" tvg-logo="" group-title="Albanesi",ALB: Jolly HD
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12411.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Folklorit" tvg-logo="" group-title="Albanesi",ALB: Folklorit
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12412.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Folk" tvg-logo="" group-title="Albanesi",ALB: Folk
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12413.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: First Channel" tvg-logo="" group-title="Albanesi",ALB: First Channel
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12414.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Film Thriller" tvg-logo="" group-title="Albanesi",ALB: Film Thriller
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12415.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Film Stinet" tvg-logo="" group-title="Albanesi",ALB: Film Stinet
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12416.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Film Nje HD" tvg-logo="" group-title="Albanesi",ALB: Film Nje HD
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12417.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Film Komedi" tvg-logo="" group-title="Albanesi",ALB: Film Komedi
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12418.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Film Junior" tvg-logo="" group-title="Albanesi",ALB: Film Junior
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12419.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Film Hits 1" tvg-logo="" group-title="Albanesi",ALB: Film Hits 1
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12420.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Film Hits" tvg-logo="" group-title="Albanesi",ALB: Film Hits
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12421.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Film Dy HD" tvg-logo="" group-title="Albanesi",ALB: Film Dy HD
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12422.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Film Drame" tvg-logo="" group-title="Albanesi",ALB: Film Drame
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12423.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Film Autor" tvg-logo="" group-title="Albanesi",ALB: Film Autor
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12424.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Film Aksion" tvg-logo="" group-title="Albanesi",ALB: Film Aksion
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12425.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Explorer Shkenca" tvg-logo="" group-title="Albanesi",ALB: Explorer Shkenca
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12426.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Explorer Natyra" tvg-logo="" group-title="Albanesi",ALB: Explorer Natyra
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12427.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Explorer Histori" tvg-logo="" group-title="Albanesi",ALB: Explorer Histori
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12428.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Elrodi TV" tvg-logo="" group-title="Albanesi",ALB: Elrodi TV
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12429.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: DIGI Sofia" tvg-logo="" group-title="Albanesi",ALB: DIGI Sofia
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12430.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: DIGI Gold" tvg-logo="" group-title="Albanesi",ALB: DIGI Gold
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12431.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Dasma TV" tvg-logo="" group-title="Albanesi",ALB: Dasma TV
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12432.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Cufo" tvg-logo="" group-title="Albanesi",ALB: Cufo
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12433.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Besa" tvg-logo="" group-title="Albanesi",ALB: Besa
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12434.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: BBF Music" tvg-logo="" group-title="Albanesi",ALB: BBF Music
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12435.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: BangBang" tvg-logo="" group-title="Albanesi",ALB: BangBang
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12436.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Ballkan TV" tvg-logo="" group-title="Albanesi",ALB: Ballkan TV
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12437.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Alsat HD" tvg-logo="" group-title="Albanesi",ALB: Alsat HD
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12438.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Alsat" tvg-logo="" group-title="Albanesi",ALB: Alsat
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12439.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: ALB Music" tvg-logo="" group-title="Albanesi",ALB: ALB Music
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12440.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: ALB Kids" tvg-logo="" group-title="Albanesi",ALB: ALB Kids
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12441.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: ALB Hits" tvg-logo="" group-title="Albanesi",ALB: ALB Hits
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12442.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: ABC News" tvg-logo="" group-title="Albanesi",ALB: ABC News
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12443.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: A1 Shqiptare" tvg-logo="" group-title="Albanesi",ALB: A1 Shqiptare
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12444.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: A1 Report" tvg-logo="" group-title="Albanesi",ALB: A1 Report
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12445.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Zico TV" tvg-logo="" group-title="Albanesi",ALB: Zico TV
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12339.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Vizion" tvg-logo="" group-title="Albanesi",ALB: Vizion
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12340.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: TVSH" tvg-logo="" group-title="Albanesi",ALB: TVSH
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12341.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: TV Tetova HD" tvg-logo="" group-title="Albanesi",ALB: TV Tetova HD
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12342.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: TV Sharri HD" tvg-logo="" group-title="Albanesi",ALB: TV Sharri HD
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12343.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: TV R" tvg-logo="" group-title="Albanesi",ALB: TV R
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12344.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: TV Presheva (test Sinjal)" tvg-logo="" group-title="Albanesi",ALB: TV Presheva (test Sinjal)
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12345.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: TV Opoja" tvg-logo="" group-title="Albanesi",ALB: TV Opoja
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12346.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: TV Liret" tvg-logo="" group-title="Albanesi",ALB: TV Liret
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12347.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: TV Lezha" tvg-logo="" group-title="Albanesi",ALB: TV Lezha
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12348.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: TV Kosova" tvg-logo="" group-title="Albanesi",ALB: TV Kosova
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12349.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: TV Istogu" tvg-logo="" group-title="Albanesi",ALB: TV Istogu
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12350.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: TV Globi Gostivar" tvg-logo="" group-title="Albanesi",ALB: TV Globi Gostivar
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12351.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: TV Era" tvg-logo="" group-title="Albanesi",ALB: TV Era
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12352.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: TV Dukagjini" tvg-logo="" group-title="Albanesi",ALB: TV Dukagjini
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12353.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: TV Bujanoc (test Sinjal)" tvg-logo="" group-title="Albanesi",ALB: TV Bujanoc (test Sinjal)
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12354.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: TV Aldi (test Sinjal)" tvg-logo="" group-title="Albanesi",ALB: TV Aldi (test Sinjal)
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12355.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Tring World" tvg-logo="" group-title="Albanesi",ALB: Tring World
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12356.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Tring Tring" tvg-logo="" group-title="Albanesi",ALB: Tring Tring
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12357.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Tring Super" tvg-logo="" group-title="Albanesi",ALB: Tring Super
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12358.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Tring Sport News HD" tvg-logo="" group-title="Albanesi",ALB: Tring Sport News HD
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12359.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Tring Sport 4 HD" tvg-logo="" group-title="Albanesi",ALB: Tring Sport 4 HD
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12450.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Tring Sport 3 HD" tvg-logo="" group-title="Albanesi",ALB: Tring Sport 3 HD
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12449.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Tring Sport 2 HD" tvg-logo="" group-title="Albanesi",ALB: Tring Sport 2 HD
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12448.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Tring Sport 1 HD" tvg-logo="" group-title="Albanesi",ALB: Tring Sport 1 HD
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12447.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Tring Shqip" tvg-logo="" group-title="Albanesi",ALB: Tring Shqip
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12360.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Tring Planet" tvg-logo="" group-title="Albanesi",ALB: Tring Planet
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12361.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Tring Max" tvg-logo="" group-title="Albanesi",ALB: Tring Max
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12362.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Tring History" tvg-logo="" group-title="Albanesi",ALB: Tring History
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12363.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Tring Festa" tvg-logo="" group-title="Albanesi",ALB: Tring Festa
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12364.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Tring Fantasy" tvg-logo="" group-title="Albanesi",ALB: Tring Fantasy
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12365.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Tring Comedy" tvg-logo="" group-title="Albanesi",ALB: Tring Comedy
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12366.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Tring 3" tvg-logo="" group-title="Albanesi",ALB: Tring 3
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12367.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Tribuna TV" tvg-logo="" group-title="Albanesi",ALB: Tribuna TV
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12368.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Top News" tvg-logo="" group-title="Albanesi",ALB: Top News
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12369.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Top Channel" tvg-logo="" group-title="Albanesi",ALB: Top Channel
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12370.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Tirana TV" tvg-logo="" group-title="Albanesi",ALB: Tirana TV
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12371.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Tip TV" tvg-logo="" group-title="Albanesi",ALB: Tip TV
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12372.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Tele Sport" tvg-logo="" group-title="Albanesi",ALB: Tele Sport
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12373.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: T HD" tvg-logo="" group-title="Albanesi",ALB: T HD
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12374.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Syri Vizion" tvg-logo="" group-title="Albanesi",ALB: Syri Vizion
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12375.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: SuperSonic TV HD" tvg-logo="" group-title="Albanesi",ALB: SuperSonic TV HD
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12376.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Super Sport Kosova 2 HD" tvg-logo="" group-title="Albanesi",ALB: Super Sport Kosova 2 HD
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12452.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Super Sport Kosova 1 HD" tvg-logo="" group-title="Albanesi",ALB: Super Sport Kosova 1 HD
+http://luckyiptv.ddns.net:23000/live/Papa/Papa/12451.ts
