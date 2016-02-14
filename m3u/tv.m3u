@@ -1,5 +1,4 @@
-#EXTM3U
-#EXTM3U#EXTINF:-1,VIZION PLUS
+#EXTINF:-1,VIZION PLUS
 http://163.172.11.240:8000/live/iosandroid/471b627fe0/100.ts
 #EXTINF:-1,TV SYRI VIZION
 http://163.172.11.240:8000/live/iosandroid/471b627fe0/23.ts
@@ -93,13 +92,235 @@ http://163.172.11.240:8000/live/iosandroid/471b627fe0/144.ts
 http://163.172.11.240:8000/live/iosandroid/471b627fe0/146.ts
 #EXTINF:-1,EURO SPORT
 http://163.172.11.240:8000/live/iosandroid/471b627fe0/177.ts
-#EXTINF:-1, Sky Sport HD5
-http://bit.ly/1LlcK9U
-#EXTINF:-1, Sky Sport HD4
-http://bit.ly/241eL6z
-#EXTINF:-1, Sky Sport HD3
-http://bit.ly/1QwGhiy
-#EXTINF:-1, Sky Sport HD2
-http://bit.ly/1QZZU5c
-#EXTINF:-1, Sky Sport HD1
-http://bit.ly/1TX8ogp
+#EXTINF:-1,CUFO
+http://163.172.11.240:8000/live/iosandroid/471b627fe0/90.ts
+#EXTINF:-1,CARTON NETWORK
+http://163.172.11.240:8000/live/iosandroid/471b627fe0/96.ts
+#EXTINF:-1,BEIN 2 HD
+http://163.172.11.240:8000/live/iosandroid/471b627fe0/173.ts
+#EXTINF:-1,BEIN 1 HD
+http://163.172.11.240:8000/live/iosandroid/471b627fe0/172.ts
+#EXTINF:-1,BBF MUSIC
+http://163.172.11.240:8000/live/iosandroid/471b627fe0/128.ts
+#EXTINF:-1,BANG BANG
+http://163.172.11.240:8000/live/iosandroid/471b627fe0/92.ts
+#EXTINF:-1,ARENA SPORT 4 HD
+http://163.172.11.240:8000/live/iosandroid/471b627fe0/201.ts
+#EXTINF:-1,ARENA SPORT 3 HD
+http://163.172.11.240:8000/live/iosandroid/471b627fe0/200.ts
+#EXTINF:-1,ARENA SPORT 2 HD
+http://163.172.11.240:8000/live/iosandroid/471b627fe0/199.ts
+#EXTINF:-1,ARENA SPORT 1 HD
+http://163.172.11.240:8000/live/iosandroid/471b627fe0/198.ts
+#EXTINF:-1,ALB HUMOR
+http://163.172.11.240:8000/live/iosandroid/471b627fe0/85.ts
+#EXTINF:-1,ALB HITS
+http://163.172.11.240:8000/live/iosandroid/471b627fe0/123.ts
+#EXTINF:-1,ALB FILM
+http://163.172.11.240:8000/live/iosandroid/471b627fe0/84.ts
+#EXTINF:-1,ABC NEWS
+http://163.172.11.240:8000/live/iosandroid/471b627fe0/107.ts
+#EXTINF:-1,A1 REPORT
+http://163.172.11.240:8000/live/iosandroid/471b627fe0/104.ts
+#EXTINF:-1,SuperSport Kosova 1
+http://163.172.11.240:8000/live/iosandroid/471b627fe0/10.ts
+#EXTINF:-1,RTK
+http://163.172.11.240:8000/live/iosandroid/471b627fe0/1.ts
+#EXTINF:-1,Top Channel
+http://163.172.11.240:8000/live/iosandroid/471b627fe0/2.ts
+#EXTINF:-1,Klan TV
+http://163.172.11.240:8000/live/iosandroid/471b627fe0/4.ts
+#EXTINF:-1,Klan Kosova
+http://163.172.11.240:8000/live/iosandroid/471b627fe0/5.ts
+#EXTINF:-1,RTV 21
+http://163.172.11.240:8000/live/iosandroid/471b627fe0/7.ts
+#EXTINF:-1,KTV
+http://163.172.11.240:8000/live/iosandroid/471b627fe0/6.ts
+#EXTINF:-1,TVSH
+http://163.172.11.240:8000/live/iosandroid/471b627fe0/3.ts
+#EXTINF:-1,Alsat M
+http://163.172.11.240:8000/live/iosandroid/471b627fe0/8.ts
+#EXTINF:-1,SKY CINEMA 1 HD
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/14.ts
+#EXTINF:-1,SKY CINEMA +24 HD
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/16.ts
+#EXTINF:-1,SKY CINEMA COMEDY HD
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/26.ts
+#EXTINF:-1,SKY CINEMA CLASSIC  HD
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/23.ts
+#EXTINF:-1,SKY CINEMA CULT HD
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/22.ts
+#EXTINF:-1,SKY CINEMA MAX HD
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/21.ts
+#EXTINF:-1,SKY CINEMA HIT HD
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/17.ts
+#EXTINF:-1,SKY UNO HD
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/25.ts
+#EXTINF:-1,SKY FOX HD
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/180.ts
+#EXTINF:-1,SKY FOX CRIME HD
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/182.ts
+#EXTINF:-1,SKY FOX COMEDY HD
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/183.ts
+#EXTINF:-1,SKY ARTE HD
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/185.ts
+#EXTINF:-1,AXN SCI-FI
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/201.ts
+#EXTINF:-1,AXN HD
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/186.ts
+#EXTINF:-1,DMAX
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/251.ts
+#EXTINF:-1,FOCUS
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/250.ts
+#EXTINF:-1,ANIMAL PLANET
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/252.ts
+#EXTINF:-1,TOP CRIME
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/191.ts
+#EXTINF:-1,+++SKY SPORT+++
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/215.ts
+#EXTINF:-1,SKY SPORT PLUS HD
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/219.ts
+#EXTINF:-1,SKY SUPERCALCIO HD
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/220.ts
+#EXTINF:-1,SKY SPORT 1 HD
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/217.ts
+#EXTINF:-1,SKY SPORT 2 HD
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/218.ts
+#EXTINF:-1,SKY SPORT 3 HD
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/241.ts
+#EXTINF:-1,SKY SPORT 24 HD
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/216.ts
+#EXTINF:-1,SKY FOX SPORT HD
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/228.ts
+#EXTINF:-1,SKY FOX SPORT 2 HD
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/229.ts
+#EXTINF:-1,SKY F1 HD
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/239.ts
+#EXTINF:-1,SKY MOTO GP
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/240.ts
+#EXTINF:-1,EUROSPORT 2
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/233.ts
+#EXTINF:-1,EUROSPORT
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/232.ts
+#EXTINF:-1,INTER CHANNEL
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/236.ts
+#EXTINF:-1,JUVENTUS CHANNEL
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/234.ts
+#EXTINF:-1,MILAN CHANNEL
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/235.ts
+#EXTINF:-1,CALCIO 1 HD
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/221.ts
+#EXTINF:-1,CALCIO 2 HD
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/222.ts
+#EXTINF:-1,CALCIO 3 HD
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/223.ts
+#EXTINF:-1,CALCIO 4 HD
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/224.ts
+#EXTINF:-1,CALCIO 5 HD
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/225.ts
+#EXTINF:-1,CALCIO 6 HD
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/226.ts
+#EXTINF:-1,CALCIO 7 HD
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/227.ts
+#EXTINF:-1,CALCIO 8
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/561.ts
+#EXTINF:-1,CALCIO 9
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/562.ts
+#EXTINF:-1,CALCIO 10
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/563.ts
+#EXTINF:-1,CALCIO 11
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/564.ts
+#EXTINF:-1,CALCIO 12
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/565.ts
+#EXTINF:-1,CALCIO 13
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/566.ts
+#EXTINF:-1,SUPER TENNIS
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/230.ts
+#EXTINF:-1,SPORT ITALIA
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/231.ts
+#EXTINF:-1,WWE WRESTLING
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/237.ts
+#EXTINF:-1,CACCIA E PESCA
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/243.ts
+#EXTINF:-1,+++CARTONI ANIMATI+++
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/257.ts
+#EXTINF:-1,DISNEY JUNIOR
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/261.ts
+#EXTINF:-1,DISNEY CHANNEL +1
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/260.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/259.ts
+#EXTINF:-1,FOX LIFE HD
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/181.ts
+#EXTINF:-1,FOX ANIMATION HD
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/262.ts
+#EXTINF:-1,VIDEOLINA
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/198.ts
+#EXTINF:-1,+++DOCUMENTARI+++
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/242.ts
+#EXTINF:-1,NATIONAL GEO WILD HD
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/246.ts
+#EXTINF:-1,NATIONAL GEO PEOPLE HD
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/245.ts
+#EXTINF:-1,NATIONAL GEO HD
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/244.ts
+#EXTINF:-1,DISCOVERY WORLD
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/248.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/247.ts
+#EXTINF:-1,+++NOTIZIE+++
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/200.ts
+#EXTINF:-1,SKY TG 24
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/202.ts
+#EXTINF:-1,TG NORBA 24
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/205.ts
+#EXTINF:-1,TG COM 24
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/203.ts
+#EXTINF:-1,+++PREMIUM CINEMA+++
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/27.ts
+#EXTINF:-1,PREMIUM CINEMA  HD
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/28.ts
+#EXTINF:-1,PREMIUM CINEMA +24
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/30.ts
+#EXTINF:-1,PREMIUM CINEMA 2 HD
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/29.ts
+#EXTINF:-1,PREMIUM CRIME+24
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/33.ts
+#EXTINF:-1,PREMIUM STUDIO UNIVERSAL
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/34.ts
+#EXTINF:-1,PREMIUM STORIES
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/38.ts
+#EXTINF:-1,PREMIUM CINEMA EMOTION
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/37.ts
+#EXTINF:-1,PREMIUM CINEMA COMEDY
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/41.ts
+#EXTINF:-1,PREMIUM CINEMA  ENERGY
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/36.ts
+#EXTINF:-1,PREMIUM ACTION HD
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/39.ts
+#EXTINF:-1,PREMIUM ACTION +24
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/40.ts
+#EXTINF:-1,PREMIUM JOI
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/35.ts
+#EXTINF:-1,+++PREMIUM SPORT+++
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/206.ts
+#EXTINF:-1,PREMIUM SPORT HD
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/208.ts
+#EXTINF:-1,PREMIUM CALCIO HD
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/556.ts
+#EXTINF:-1,PREMIUM CALCIO
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/207.ts
+#EXTINF:-1,PREMIUM CALCIO 1
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/209.ts
+#EXTINF:-1,PREMIUM CALCIO 2
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/210.ts
+#EXTINF:-1,PREMIUM CALCIO 3
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/211.ts
+#EXTINF:-1,PREMIUM CALCIO 4
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/557.ts
+#EXTINF:-1,PREMIUM CALCIO 6
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/559.ts
+#EXTINF:-1,PREMIUM CALCIO 5
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/558.ts
+#EXTINF:-1,PREMIUM CALCIO 7
+http://enz-iptv.dyndns.tv:8000/live/azalea/azalea/560.ts
